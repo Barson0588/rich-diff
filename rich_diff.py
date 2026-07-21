@@ -13,7 +13,7 @@ Usage::
     console.print(Diff(old_text, new_text, view="split"))
     console.print(Diff.from_paths("old.py", "new.py", syntax="python"))
 
-Author: chengfengyi-falcon
+Author: Barson0588
 License: MIT
 """
 

@@ -68,7 +68,7 @@ console.print(Diff(old, new, view="split"))
 
 ## Author
 
-chengfengyi-falcon
+Barson0588
 
 ## License
 
